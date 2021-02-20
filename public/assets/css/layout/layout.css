@@ -1,0 +1,24 @@
+
+header {
+	margin: 0 0 2em 0;
+}
+
+header>p {
+	margin: 1em 0 0 0;
+}
+
+footer {
+	margin: 2em 0 0 0;
+}
+
+sub {
+	position: relative;
+	top: 0.5em;
+	font-size: 0.8em;
+}
+
+sup {
+	position: relative;
+	top: -0.5em;
+	font-size: 0.8em;
+}
